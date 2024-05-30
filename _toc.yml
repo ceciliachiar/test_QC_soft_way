@@ -1,0 +1,6 @@
+# Information about where the book exists on the web
+format: jb-book
+root: README
+chapters:
+- file: boh
+- file: hello
