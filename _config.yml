@@ -10,9 +10,9 @@ launch_buttons:
   binderhub_url: "https://mybinder.org"  # The URL for your BinderHub (e.g., https://mybinder.org)
 
 
-# Sphinx-thebe
 launch_buttons:
- thebe: true
+  thebe: true
+
 sphinx:
   config:
     html_js_files:
